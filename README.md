@@ -37,3 +37,7 @@
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=kennytech&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kennytech&hide=TeX&layout=compact)
+
+<p  align="center">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=kennytech.kennytech" alt="visitor badge"/>
+</p>
