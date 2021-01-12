@@ -21,7 +21,7 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
   
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
-![Vercel](https://img.shields.io/badge/-Vercel-430098?style=flat-square&logo=vercel)
+![Vercel](https://img.shields.io/badge/-Vercel-black?style=flat-square&logo=vercel)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
   
@@ -35,8 +35,8 @@
   
 ![Bitcoin](https://img.shields.io/badge/BitcoinAdvocist-orange?logo=bitcoin)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=kennytech&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kennytech&hide=TeX&layout=compact)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=kennytech&count_private=true&show_icons=true&include_all_commits=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kennytech&hide=TeX&layout=compact&theme=radical)
 
 <p  align="center">
   <img src="https://visitor-badge.glitch.me/badge?page_id=kennytech.kennytech" alt="visitor badge"/>
