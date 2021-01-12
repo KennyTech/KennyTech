@@ -34,6 +34,9 @@
 ![Jira](https://img.shields.io/badge/-Jira-blue?style=flat-square&logo=jira)
 ![Trello](https://img.shields.io/badge/-Trello-yellow?style=flat-square&logo=trello)
   
+![Flutter](https://img.shields.io/badge/-Flutter-darkgreen?style=flat-square&logo=flutter)
+![AndroidStudio](https://img.shields.io/badge/-AndroidStudio-grey?style=flat-square&logo=android)
+![Blender](https://img.shields.io/badge/-Blender-yellow?style=flat-square&logo=blender)
 ![Unity](https://img.shields.io/badge/-Unity-black?style=flat-square&logo=unity)
   
 ![Bitcoin](https://img.shields.io/badge/BitcoinAdvocist-orange?logo=bitcoin)
