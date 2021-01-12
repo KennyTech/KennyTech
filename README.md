@@ -1,9 +1,10 @@
-### Hello 👋 I'm Kenny. I program things and make games.
+### Hello 👋 I'm Kenny. I program things and make games. I’m currently working on a farming sim game.
 
-- 🔭 I’m currently working on a farming sim game!
-
-#### Please check out my farming sim game at: http://www.dinnertimegames.com/
-#### Join the Discord!: ![Discord](https://img.shields.io/discord/798371421613064232?label=Lucid%20Farm%20Discord&style=plastic )
+#### Feel free to check out my farming sim game at: http://www.dinnertimegames.com/
+#### If you like it, please support by joining the Discord and following on Twitter! It would mean a lot, thank you!
+#### Join the Discord: ![Discord](https://img.shields.io/discord/798371421613064232?label=Lucid%20Farm%20Discord&style=plastic )
+#### Follow on Twitter: ![Twitter](https://img.shields.io/twitter/follow/QuixohS?style=plastic )
+  
 ---
   
 ![C#](https://img.shields.io/badge/-Csharp-indigo?style=flat-square&logo=c)
@@ -39,7 +40,7 @@
 ![Unity](https://img.shields.io/badge/-Unity-black?style=flat-square&logo=unity)
   
 ![Bitcoin](https://img.shields.io/badge/BitcoinAdvocist-orange?logo=bitcoin)
-![FlatEarther](https://img.shields.io/badge/FlatEarther-blue?logo=moon)
+![FlatEarther](https://img.shields.io/badge/Flat_Earther-blue?logo=sun)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=kennytech&count_private=true&show_icons=true&include_all_commits=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kennytech&hide=TeX&layout=compact&theme=radical)
