@@ -3,8 +3,7 @@
 - 🔭 I’m currently working on a farming sim game!
 
 #### Please check out my farming sim game at: http://www.dinnertimegames.com/
-#### Join the Discord!: https://img.shields.io/discord/798371421613064232?label=Lucid%20Farm%20Discord&style=plastic 
-  
+#### Join the Discord!: ![Discord](https://img.shields.io/discord/798371421613064232?label=Lucid%20Farm%20Discord&style=plastic )
 ---
   
 ![C#](https://img.shields.io/badge/-Csharp-indigo?style=flat-square&logo=c)
