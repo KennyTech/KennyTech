@@ -1,4 +1,7 @@
-### Hello 👋 I'm Kenny. I program things and make games. I’m currently working on a farming sim game.
+
+### Hello 👋 I'm Kenny. I program things and make games. 
+### :corn: I’m currently working on a farming sim game :corn:
+### 3D, multiplayer, lots of fun! :cow2: :cow2: :cow2:
 
 #### Feel free to check out my farming sim game at: http://www.dinnertimegames.com/
 #### If you like it, please support by joining the Discord and following on Twitter! It would mean a lot, thank you!
