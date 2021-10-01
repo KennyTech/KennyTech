@@ -11,7 +11,7 @@
 🙏 Very fortunate to have found my passion early.  
 
 🏢 I currently run a small studio creating fun games.  
-🧭 We love exploring the boundaries of emerging technology and our goal is to push towards better gaming standards and experiences for gamers.  
+🧭 We love exploring the boundaries of emerging technology, pushing towards better gaming experiences for gamers.  
 
 ---
   
