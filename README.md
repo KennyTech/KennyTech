@@ -2,13 +2,12 @@
 ### Hello 👋 I'm Kenny.  
 🎮 I'm a diehard game developer.  
 💻 Obsessed with game development since age 3 and started coding since age 5.  
-☠️ 15000+ hours of solo development with over 300+ mini-games or mods.  
 🌐 Great interest in the arts, the mind, global economics, and finance.  
 ☯️ Walking a fine line between order and chaos.  
-🤹🏽 A master of problem solving, game design, game mechanics, game balancing, and understanding the psychology of a gamer.  
-😐 Probably average in coding practices. 95% self-taught. I'm sorry Uni, for not paying attention.  
+🤹🏽 A scholar of problem solving, game design, game mechanics, game balancing, and understanding the psychology of a gamer.  
+😐 Probably average in coding practices. 95% self-taught.  
 🗺️ Where are my games? Maybe you can find them. Maybe you can't. They total over 2M installs. I go by many pseudonyms.  
-🙏 Very fortunate to have found my passion early.  
+🙏 I'm grateful for having found my passion early.  
 
 🏢 I currently run a small studio creating fun games.  
 🧭 We love exploring the boundaries of emerging technology, pushing towards better gaming experiences for gamers.  
